@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_nk0i4OreEfC-t41dbFC_Ww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_nk0i4ereEfC-t41dbFC_Ww" comment="" name="ruta_entrada" prompt="ruta_entrada?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\PBB\Entrada\"/>
+  <contextParameter xmi:id="_nk0i4ureEfC-t41dbFC_Ww" comment="" name="ruta_salida" prompt="ruta_salida?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\PBB\Salida\"/>
+  <contextParameter xmi:id="_nk0i4-reEfC-t41dbFC_Ww" comment="" name="ruta_procesados" prompt="ruta_procesados?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\PBB\Procesados\"/>
+  <contextParameter xmi:id="_90sEEOruEfCVi6JnnsacBg" comment="" name="ruta_entrada_orquestacion" prompt="ruta_entrada_orquestacion?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;C:/PBB/Entrada/&quot;"/>
+</talendfile:ContextType>

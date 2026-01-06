@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_BioyIOsTEfC2WsgGeHt9oQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_BioyIesTEfC2WsgGeHt9oQ" comment="" name="nombre_archivo" prompt="nombre_archivo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="transacciones.csv"/>
+  <contextParameter xmi:id="_BioyIusTEfC2WsgGeHt9oQ" comment="" name="nombre_archivo_salida" prompt="nombre_archivo_salida?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="movimientos_clientes.csv"/>
+  <contextParameter xmi:id="_BioyI-sTEfC2WsgGeHt9oQ" comment="" name="nombre_archivo_salida2" prompt="nombre_archivo_salida2?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="movimientos_clientes_filtro.csv"/>
+</talendfile:ContextType>

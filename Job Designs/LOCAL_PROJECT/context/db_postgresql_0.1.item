@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_vl42UOreEfC-t41dbFC_Ww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_vl42UereEfC-t41dbFC_Ww" comment="" name="esquema" prompt="esquema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="PBB"/>
+  <contextParameter xmi:id="_R02aAOrfEfC-t41dbFC_Ww" comment="" name="db" prompt="db?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_R02aAerfEfC-t41dbFC_Ww" comment="" name="usuario" prompt="usuario?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_R02aAurfEfC-t41dbFC_Ww" comment="" name="contrasena" prompt="contrasena?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:9L3bGM30IawO3Zq35kIm8jQNS5hq2Tdd9VSA5LA9659y1rYEOg=="/>
+  <contextParameter xmi:id="_GM_JkOrgEfC-t41dbFC_Ww" comment="" name="host" prompt="host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_Q5aQAOrgEfC-t41dbFC_Ww" comment="" name="puerto" prompt="puerto?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+</talendfile:ContextType>

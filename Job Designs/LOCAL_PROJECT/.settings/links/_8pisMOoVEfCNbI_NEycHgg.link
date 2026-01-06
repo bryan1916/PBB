@@ -1,0 +1,27 @@
+{
+  "itemId" : "_8pisMOoVEfCNbI_NEycHgg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_BiIb0OsTEfC2WsgGeHt9oQ",
+    "parameterList" : [ {
+      "id" : "_BioyIesTEfC2WsgGeHt9oQ",
+      "name" : "nombre_archivo"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_nkSXYOreEfC-t41dbFC_Ww",
+    "parameterList" : [ {
+      "id" : "_nk0i4ereEfC-t41dbFC_Ww",
+      "name" : "ruta_entrada"
+    }, {
+      "id" : "_90sEEOruEfCVi6JnnsacBg",
+      "name" : "ruta_entrada_orquestacion"
+    }, {
+      "id" : "_nk0i4-reEfC-t41dbFC_Ww",
+      "name" : "ruta_procesados"
+    }, {
+      "id" : "_nk0i4ureEfC-t41dbFC_Ww",
+      "name" : "ruta_salida"
+    } ]
+  } ]
+}

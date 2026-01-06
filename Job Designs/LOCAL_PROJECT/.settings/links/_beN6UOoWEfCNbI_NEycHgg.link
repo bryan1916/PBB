@@ -1,0 +1,49 @@
+{
+  "itemId" : "_beN6UOoWEfCNbI_NEycHgg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_vlmicOreEfC-t41dbFC_Ww",
+    "parameterList" : [ {
+      "id" : "_R02aAurfEfC-t41dbFC_Ww",
+      "name" : "contrasena"
+    }, {
+      "id" : "_R02aAOrfEfC-t41dbFC_Ww",
+      "name" : "db"
+    }, {
+      "id" : "_vl42UereEfC-t41dbFC_Ww",
+      "name" : "esquema"
+    }, {
+      "id" : "_GM_JkOrgEfC-t41dbFC_Ww",
+      "name" : "host"
+    }, {
+      "id" : "_Q5aQAOrgEfC-t41dbFC_Ww",
+      "name" : "puerto"
+    }, {
+      "id" : "_R02aAerfEfC-t41dbFC_Ww",
+      "name" : "usuario"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_BiIb0OsTEfC2WsgGeHt9oQ",
+    "parameterList" : [ {
+      "id" : "_BioyIusTEfC2WsgGeHt9oQ",
+      "name" : "nombre_archivo_salida"
+    }, {
+      "id" : "_BioyI-sTEfC2WsgGeHt9oQ",
+      "name" : "nombre_archivo_salida2"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_nkSXYOreEfC-t41dbFC_Ww",
+    "parameterList" : [ {
+      "id" : "_nk0i4ereEfC-t41dbFC_Ww",
+      "name" : "ruta_entrada"
+    }, {
+      "id" : "_nk0i4-reEfC-t41dbFC_Ww",
+      "name" : "ruta_procesados"
+    }, {
+      "id" : "_nk0i4ureEfC-t41dbFC_Ww",
+      "name" : "ruta_salida"
+    } ]
+  } ]
+}
